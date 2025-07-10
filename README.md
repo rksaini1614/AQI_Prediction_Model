@@ -11,6 +11,7 @@ Built in Jupyter Notebook for easy reproducibility and experimentation.
 # 📁 Project Structure
 AirQualityIndexPredictionModel/
 │
+
 ├── AirQualityIndexPredictionModel.ipynb   # Main ML notebook
 
 ├── README.md                              # Project documentation
