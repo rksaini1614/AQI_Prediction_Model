@@ -12,7 +12,9 @@ Built in Jupyter Notebook for easy reproducibility and experimentation.
 AirQualityIndexPredictionModel/
 │
 ├── AirQualityIndexPredictionModel.ipynb   # Main ML notebook
+
 ├── README.md                              # Project documentation
+
 └── data/                                  # Folder for dataset
 
 
